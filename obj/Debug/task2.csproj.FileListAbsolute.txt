@@ -1,0 +1,8 @@
+D:\mphasis\22-07-2023\task2\task2\bin\Debug\task2.exe.config
+D:\mphasis\22-07-2023\task2\task2\bin\Debug\task2.exe
+D:\mphasis\22-07-2023\task2\task2\bin\Debug\task2.pdb
+D:\mphasis\22-07-2023\task2\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+D:\mphasis\22-07-2023\task2\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\22-07-2023\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+D:\mphasis\22-07-2023\task2\task2\obj\Debug\task2.exe
+D:\mphasis\22-07-2023\task2\task2\obj\Debug\task2.pdb
